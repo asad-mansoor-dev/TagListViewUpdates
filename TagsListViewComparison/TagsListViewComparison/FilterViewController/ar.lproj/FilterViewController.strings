@@ -1,0 +1,48 @@
+
+/* Class = "UIButton"; normalTitle = "Custom"; ObjectID = "0Pw-Vm-czx"; */
+"0Pw-Vm-czx.normalTitle" = "Custom";
+
+/* Class = "UIButton"; selectedTitle = "Custom"; ObjectID = "0Pw-Vm-czx"; */
+"0Pw-Vm-czx.selectedTitle" = "Custom";
+
+/* Class = "UIButton"; normalTitle = "Male"; ObjectID = "2GI-Ae-5b3"; */
+"2GI-Ae-5b3.normalTitle" = "Male";
+
+/* Class = "UIButton"; selectedTitle = "Male"; ObjectID = "2GI-Ae-5b3"; */
+"2GI-Ae-5b3.selectedTitle" = "Male";
+
+/* Class = "UILabel"; text = "Price Range"; ObjectID = "2nw-2q-YKX"; */
+"2nw-2q-YKX.text" = "Price Range";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "AJE-wn-1u6"; */
+"AJE-wn-1u6.normalTitle" = "Search";
+
+/* Class = "UIButton"; normalTitle = "Same Day"; ObjectID = "AgU-io-6TJ"; */
+"AgU-io-6TJ.normalTitle" = "Same Day";
+
+/* Class = "UIButton"; selectedTitle = "Same Day"; ObjectID = "AgU-io-6TJ"; */
+"AgU-io-6TJ.selectedTitle" = "Same Day";
+
+/* Class = "UITextField"; placeholder = "Category"; ObjectID = "FZD-0o-6dt"; */
+"FZD-0o-6dt.placeholder" = "Category";
+
+/* Class = "UIButton"; normalTitle = "Female"; ObjectID = "JNK-1P-A5Q"; */
+"JNK-1P-A5Q.normalTitle" = "Female";
+
+/* Class = "UIButton"; selectedTitle = "Female"; ObjectID = "JNK-1P-A5Q"; */
+"JNK-1P-A5Q.selectedTitle" = "Female";
+
+/* Class = "UITextField"; placeholder = "Occasions"; ObjectID = "Uwh-uh-eM9"; */
+"Uwh-uh-eM9.placeholder" = "Occasions";
+
+/* Class = "UILabel"; text = "Filters"; ObjectID = "WtP-Li-mn8"; */
+"WtP-Li-mn8.text" = "Filters";
+
+/* Class = "UILabel"; text = "Your Gender"; ObjectID = "Xuo-8D-MiU"; */
+"Xuo-8D-MiU.text" = "Your Gender";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "YB8-tg-W6F"; */
+"YB8-tg-W6F.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Delivery"; ObjectID = "s14-te-30L"; */
+"s14-te-30L.text" = "Delivery";

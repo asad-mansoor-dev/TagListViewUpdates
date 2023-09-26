@@ -1,16 +1,24 @@
 PODS:
+  - ObjectMapper (3.5.3)
+  - RangeSeekSlider (1.8.0)
   - TagListView (1.4.1)
 
 DEPENDENCIES:
+  - ObjectMapper (~> 3.4)
+  - RangeSeekSlider (~> 1.8)
   - TagListView (~> 1.0)
 
 SPEC REPOS:
   trunk:
+    - ObjectMapper
+    - RangeSeekSlider
     - TagListView
 
 SPEC CHECKSUMS:
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  RangeSeekSlider: 650b11fa1edcb92e1e0ede797669d98622570fb5
   TagListView: a1c236d17960a0cf64156725a76ce6d73ebce2be
 
-PODFILE CHECKSUM: ea1ef6ab86bc09d13b77b9539a3de3e010692e6e
+PODFILE CHECKSUM: 65dc9d5ded3f326d32b7cb21950a081c0db356c8
 
 COCOAPODS: 1.12.1

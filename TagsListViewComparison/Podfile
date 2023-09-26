@@ -7,6 +7,10 @@ target 'TagsListViewComparison' do
 
   # Pods for TagsListViewComparison
 
-	pod 'TagListView', '~> 1.0'
+
+  pod 'TagListView', '~> 1.0'
+  pod 'RangeSeekSlider', '~> 1.8'
+  pod 'ObjectMapper', '~> 3.4'
+
 
 end

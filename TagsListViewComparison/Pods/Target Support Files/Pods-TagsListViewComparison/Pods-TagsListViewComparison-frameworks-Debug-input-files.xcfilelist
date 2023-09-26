@@ -1,2 +1,4 @@
 ${PODS_ROOT}/Target Support Files/Pods-TagsListViewComparison/Pods-TagsListViewComparison-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ObjectMapper/ObjectMapper.framework
+${BUILT_PRODUCTS_DIR}/RangeSeekSlider/RangeSeekSlider.framework
 ${BUILT_PRODUCTS_DIR}/TagListView/TagListView.framework
